@@ -26,6 +26,6 @@ In the top-left, click <b>(+) -> Create a new repository</b>. On the left hand s
 Click <b>Clone/New</b> button at the top-left. Under <b>Clone Repository</b>, copy/paste the repo URL (https://gitlab.com/Siggraph-AR/SCAR2017.git) into <b>Source Path/URL</b>. Fill in the <b>Destination Path</b> with the location of the project files. Leave <b>Bookmark this repository</b> checked, and customize the <b>Name</b> of the repo if you want. Then hit <b>Clone</b>.
 
 <h2>Opening the project in Unity</h2>
-Those that are actually going to be hooking things up in Unity will need to download <a href="https://store.unity.com/download?ref=personal">Unity 5.5</a>. It should be the latest release version at the time of this write-up.
+Those that are actually going to be working directly in Unity or want to test the latest iteration of our app will need to download <a href="https://store.unity.com/download?ref=personal">Unity 5.5</a>. Unity 5.5 should be the latest release version at the time of this write-up.
 <br/>
 Launch Unity and <b>Open</b> a project. Select the folder you pulled down from GitLab, and Unity should start loading and autogenerating the extra project files.
