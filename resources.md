@@ -1,1 +1,1 @@
-WIP
+Anyone can feel free to add additional things to this list if you think they will be helpful.
