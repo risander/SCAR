@@ -1,5 +1,6 @@
 <h2>Getting the project files</h2>
-First, you're going to need a way to pull down the Git project. If you like to type commands inside of a console window like a hacker, feel free to use the base version of <a href="https://git-scm.com/">Git</a>. Otherwise we recommend installing one of these GUIs.
+First, you're going to need a way to pull down the Git project. If you like to type commands inside of a console window like a hacker, feel free to use the base version of <a href="https://git-scm.com/">Git</a>. Otherwise we recommend installing one of these GUIs. 
+<br><b>NOTE: Make sure you have an account to sign into GitLab and have been added to the project using that username. Otherwise, you won't be able to access and pull the project files!</b>
 <ul>
     <li>
         <b><a href="https://www.gitkraken.com/">GitKraken</a> (Windows, Mac, Linux)</b>
