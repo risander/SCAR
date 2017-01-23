@@ -5,10 +5,12 @@ Anyone can feel free to add additional things to this list if you think they wil
 Part of using any interface to work with Git is understanding the concepts and terminology. A lot of tutorials throw you into the commandline, which may be intimidating for some. But if you can understand what those commands are doing, it's easy to translate that knowledge to the GUIs. There are a plethora of good Git tutorials. Here are just some I found...
  - <a href="https://www.codeschool.com/courses/try-git">An interactive tutorial of Git basics using their built-in web commandline.</a>
  - <a href="https://reganmusic.wordpress.com/2016/07/12/what-is-git/">Basic introduction of Git with beginning tutorials using the commandline, GitKraken, and TortoiseGit</a>
+ - <a href="https://git-scm.com/book/en/v2">Git Book</a>
+ - <a href="https://git-scm.com/docs">Git Reference</a>
 
-<h2>Tips and examples of good scan markers / image targets</h2>
- - <a href="https://library.vuforia.com/articles/Best_Practices/Attributes-of-an-Ideal-Image-Target">Attributes of an ideal image target</a>
- - <a href="https://library.vuforia.com/articles/Solution/Natural-Features-and-Ratings">Natural features and image ratings</a>
+<h2>AR / Vuforia</h2>
+ - <a href="https://library.vuforia.com/articles/Best_Practices/Attributes-of-an-Ideal-Image-Target">(Art) Attributes of an ideal image target</a>
+ - <a href="https://library.vuforia.com/articles/Solution/Natural-Features-and-Ratings">(Art) Natural features and image ratings</a>
 
 <h2>Mobile device specs</h2>
 In summary, phone devices (at least from the biggest manufacturers) generally use a 9:16 aspect ratio,  with resolutions ranging from 720x1280 up to 1440x2560. For tablets, Apple uses a 3:4 aspect ratio, whereas Samsung and other Android-centric manufacturers tend to use 9:16 or 10:16.
