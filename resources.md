@@ -1,16 +1,16 @@
 <h1>Resources</h1>
 Anyone can feel free to add additional things to this list if you think they will be helpful.
 
-<h3>Working with Git source control (tutorials)</h3>
+<h2>Working with Git source control (tutorials)</h2>
 Part of using any interface to work with Git is understanding the concepts and terminology. A lot of tutorials throw you into the commandline, which may be intimidating for some. But if you can understand what those commands are doing, it's easy to translate that knowledge to the GUIs. There are a plethora of good Git tutorials. Here are just some I found...
  - <a href="https://www.codeschool.com/courses/try-git">An interactive tutorial of Git basics using their built-in web commandline.</a>
  - <a href="https://reganmusic.wordpress.com/2016/07/12/what-is-git/">Basic introduction of Git with beginning tutorials using the commandline, GitKraken, and TortoiseGit</a>
 
-<h3>Tips and examples of good scan markers / image targets</h3>
+<h2>Tips and examples of good scan markers / image targets</h2>
  - <a href="https://library.vuforia.com/articles/Best_Practices/Attributes-of-an-Ideal-Image-Target">Attributes of an ideal image target</a>
  - <a href="https://library.vuforia.com/articles/Solution/Natural-Features-and-Ratings">Natural features and image ratings</a>
 
-<h3>Mobile device specs</h3>
+<h2>Mobile device specs</h2>
 In summary, phone devices (at least from the biggest manufacturers) generally use a 9:16 aspect ratio,  with resolutions ranging from 720x1280 up to 1440x2560. For tablets, Apple uses a 3:4 aspect ratio, whereas Samsung and other Android-centric manufacturers tend to use 9:16 or 10:16.
  - Apple
    - <a href="http://www.gsmarena.com/apple_iphone_7-8064.php">iPhone 7</a>
