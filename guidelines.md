@@ -4,7 +4,7 @@
  - The <b>Development</b> branch of the project is where most everyone well be adding their changes, so make sure you are making your commits to that branch. The <b>Master</B> branch is reserved for milestone builds.
 
 <h2>Include your Unity <b>.meta</b> files when you commit new items!</h2>
- - Whenever a new item is added into the Unity project, Unity autogenerates this file. Meta files contain information that Unity uses to references various data in the project. It will autogenerate one if you're missing it, but this can also lead to conflicts with meta files between different users. That can be a pain to resolve, so it's best for the author to provide everyone else with their meta data.
+ - Whenever a new item is added into the Unity project, Unity autogenerates this file. Meta files contain IDs that Unity uses to reference files throughout the project. It will autogenerate one if you're missing it, but this can also lead to conflicts with meta files between different users. That can be a pain to resolve, so it's best for the author to provide everyone else with their .meta. All files within the Unity Assets folder each have one, including the sub-folders!
 
 <h2>Push only when you know your changes are stable</h2>
  - A broken project that you cannot build and run is no fun for anyone. Sometimes mistakes happen, but try to fix it promptly!
